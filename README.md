@@ -37,7 +37,7 @@ $ sudo ./main.py
 
 ```
 
-The above command starts the program and a window pops up. There the user has the option to select which academic texts he/she wants to compare. In addition the user has the option to select custom categories for comparison: text, paraphrased text, style (frequencies of certain word groups) and references. All of the selected categories contribute to the final score. After the plagiarism detection is performed, the user has the option to check for more details for the similarities in each of the categories.
+The above command starts the program and a window pops up. There the user has the option to select which academic texts he/she wants to compare. In addition, the user has the option to select custom categories for comparison: text, paraphrased text, style (frequencies of certain word groups) and references. All of the selected categories contribute to the final score. After the plagiarism detection is performed, the user has the option to check for more details for the similarities in each of the categories.
 
 ## Authors
 
